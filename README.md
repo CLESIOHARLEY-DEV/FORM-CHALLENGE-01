@@ -1,6 +1,6 @@
 Formulario
 
-<img src="https://user-images.githubusercontent.com/95729897/150894196-0193f1f7-8d1f-4fbe-91b5-727f03debf7f.PNG" alt="Imagem do projeto" width="800x" height="180px">
+<img src="https://user-images.githubusercontent.com/95729897/150894196-0193f1f7-8d1f-4fbe-91b5-727f03debf7f.PNG" alt="Imagem do projeto" width="800x" height="400px">
 
 
 
